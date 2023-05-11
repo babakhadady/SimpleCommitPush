@@ -6,8 +6,6 @@ function usage() {
 }
 
 function main() {
-	dir
-	mes
 	if [[ $# -eq 1 ]]; 
 	then
 		dir=.
