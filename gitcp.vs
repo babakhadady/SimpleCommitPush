@@ -10,7 +10,7 @@ function main() {
 	then
 		dir=.
 		mes=$1
-       	else 
+    else 
 		dir=$1
 		mes=$2
 	fi
