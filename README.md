@@ -10,7 +10,7 @@ git commit -m <commit message>
 git push
 ```
 
-## Usage
+#### Usage
 
 ` ./gitcp <directory> <message> `
 
