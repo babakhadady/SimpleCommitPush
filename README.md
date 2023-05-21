@@ -1,8 +1,7 @@
-# SimpleCommitPush
+# scripts
 
-## Shell Script To Simplify Committing and Pushing to GitHub
 
-It gets tedious having to write the three following commands to do such a common and basic task.
+### Shell Script To Simplify Committing and Pushing to GitHub
 
 
 ```
